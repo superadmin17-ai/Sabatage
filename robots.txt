@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://__SABATAGE_DOMAIN__/sitemap.xml
